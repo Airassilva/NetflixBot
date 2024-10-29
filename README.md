@@ -17,7 +17,7 @@ O Netflix Assistant Chatbot é uma aplicação de desktop interativa que permite
 
 ## Instalação
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/netflix-assistant-chatbot.git
+git clone https://github.com/Airassilva/NetflixBot.git
 
 ## Uso
 1. Execute o script principal:
